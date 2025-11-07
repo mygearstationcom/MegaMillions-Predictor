@@ -19,3 +19,6 @@ predictor-COM.cpp - this is a basic varient that predicts future numbers based o
 predictor-JSON.cpp - Same as "-COM" variant but the data is stored in a JSON file instead of the code itself for better efficiency
 
 JSON file with prior winning MegaMillion Lotto results will be available soon
+
+
+# Go to my new subdirectory to see my modifications - mygearstationcom
