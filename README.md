@@ -21,4 +21,5 @@ predictor-JSON.cpp - Same as "-COM" variant but the data is stored in a JSON fil
 JSON file with prior winning MegaMillion Lotto results will be available soon
 
 
-# Go to my new subdirectory to see my modifications - mygearstationcom
+# Go to my new Repository to see my modifications - Powerball and Megamillion Predictor
+Thanks to this author for their inspiration. Between their great work, I have both a Powerball and a MegaMillion Predictor. The Disclaimer is still in effect. :)
